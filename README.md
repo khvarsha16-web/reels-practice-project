@@ -35,36 +35,36 @@ findings below should be read — see [Limitations](#limitations).
 
 ## Findings
 
-**Virality by niche**
+1. **Virality by niche.**
 
-| Niche | Avg. virality score |
-|---|---|
-| Fitness & Lifestyle | 89.0 |
-| Technology & Gadgets | 78.3 |
-| Entertainment | 69.9 |
-| Food & Cooking | 66.5 |
-| Personal Finance | 63.8 |
+   | Niche | Avg. virality score |
+   |---|---|
+   | Fitness & Lifestyle | 89.0 |
+   | Technology & Gadgets | 78.3 |
+   | Entertainment | 69.9 |
+   | Food & Cooking | 66.5 |
+   | Personal Finance | 63.8 |
 
-**Hashtag count barely matters.** Correlation between hashtag count and
-views was ~0 (r = 0.01), and even within a single creator's own posts
-(techburner), using 1 vs. 4 vs. 5 hashtags showed no consistent difference
-in engagement rate. Using 5 hashtags (a common default) is not a
-meaningful lever — don't over-invest effort here.
+2. **Hashtag count barely matters.** Correlation between hashtag count and
+   views was ~0 (r = 0.01), and even within a single creator's own posts
+   (techburner), using 1 vs. 4 vs. 5 hashtags showed no consistent difference
+   in engagement rate. Using 5 hashtags (a common default) is not a
+   meaningful lever — don't over-invest effort here.
 
-**Shorter videos had better engagement.** Reels in the 30–60 second range
-averaged ~6.8% engagement rate vs. ~5.9–6.3% for reels over 90 seconds.
-Shorter, tighter content is easier to finish and rewatch, which Reels'
-algorithm rewards.
+3. **Shorter videos had better engagement.** Reels in the 30–60 second range
+   averaged ~6.8% engagement rate vs. ~5.9–6.3% for reels over 90 seconds.
+   Shorter, tighter content is easier to finish and rewatch, which Reels'
+   algorithm rewards.
 
-**Mid-length captions outperformed both extremes.** Captions of 16–60
-words averaged ~9% engagement vs. ~6.6–7.5% for bare captions or long,
-essay-style ones. A caption with a real hook or bit of context does
-better than either hashtag-only captions or walls of text.
+4. **Mid-length captions outperformed both extremes.** Captions of 16–60
+   words averaged ~9% engagement vs. ~6.6–7.5% for bare captions or long,
+   essay-style ones. A caption with a real hook or bit of context does
+   better than either hashtag-only captions or walls of text.
 
-**Posting time had a real spread in this sample.** Friday, Wednesday, and
-Sunday, and the ~14:00–15:00 UTC window, averaged the highest views. This
-reflects *these specific creators'* audiences, so treat it as a hypothesis
-to test against your own account's data, not a rule.
+5. **Posting time had a real spread in this sample.** Friday, Wednesday, and
+   Sunday, and the ~14:00–15:00 UTC window, averaged the highest views. This
+   reflects *these specific creators'* audiences, so treat it as a hypothesis
+   to test against your own account's data, not a rule.
 
 ## Key takeaways (for a new, zero-follower account)
 
